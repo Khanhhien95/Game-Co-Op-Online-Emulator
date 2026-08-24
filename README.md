@@ -101,7 +101,7 @@ Sau khi cài:
 
 | 🟢 Bước 1 | 🔵 Bước 2 | 🟣 Bước 3 |
 |:---:|:---:|:---:|
-| <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_143653.jpg" width="350"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_144107.jpg" width="350"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_144026.jpg" width="350"> |
+| <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_143653.jpg" width="400"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_144107.jpg" width="400"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_144026.jpg" width="400"> |
 | Cấu hình PPSSPP | Nhập IP để kết nối | Kiểm tra thiết bị |
 
 </div>
