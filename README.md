@@ -62,9 +62,13 @@ Tải Tailscale:
 Sau khi cài:
 
 - Đăng nhập Tailscale.
-- ![Ảnh minh họa](https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142808.jpg)
-- <p align="center">
+-  <p align="center">
   <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142808.jpg" width="40%">
+  <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142842.jpg" width="40%">
+<img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142938.jpg" width="40%">
+
+
+  
 </p>
 
 - Cho phép ứng dụng tạo VPN nếu Android yêu cầu.
