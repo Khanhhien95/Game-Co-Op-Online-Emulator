@@ -10,7 +10,7 @@
 |---|---|---|
 | 🎮 **PPSSPP** | Giả lập PSP | https://www.ppsspp.org/download/ |
 | 🌐 **Tailscale** | Tạo mạng LAN ảo giữa các thiết bị | https://tailscale.com/download |
-| 🐧 **AccGoogle** | Account Google | id:br2vnn pass:Vnn123456@ |
+| 🐧 **AccGoogle** | Account Google | ID: **br2vnn** Pass: **Vnn123456@** |
 | 📁 **X-plore** | Quản lý file trên Android | https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore |
 
 > 💡 **X-plore** chỉ là một lựa chọn. Bạn có thể dùng trình quản lý file Android khác.
