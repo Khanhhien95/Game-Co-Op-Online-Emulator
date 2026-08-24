@@ -17,7 +17,7 @@
 
 ---
 
-# 🔗 Mô hình kết nối
+## 🔗 Mô hình kết nối
 
 ```mermaid
 flowchart TB
@@ -52,6 +52,8 @@ flowchart TB
     T4 --> LAN
 
     LAN --> GAME
+
+```
 
 
 ### Nguyên tắc
