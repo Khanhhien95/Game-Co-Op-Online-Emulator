@@ -16,23 +16,38 @@
 > 💡 **X-plore** chỉ là một lựa chọn. Bạn có thể dùng trình quản lý file Android khác.
 
 ---
+flowchart TB
+    INTERNET((🌐 INTERNET))
 
-## 🔗 Mô hình kết nối
+    P1["🎮 Người chơi 1<br/>PPSSPP"]
+    P2["🎮 Người chơi 2<br/>PPSSPP"]
+    P3["🎮 Người chơi 3<br/>PPSSPP"]
+    P4["🎮 Người chơi 4<br/>PPSSPP"]
 
-```text
-        INTERNET
-           │
-    ┌──────┴──────┐
-    │             │
- Người chơi 1   Người chơi 2
-    │             │
- PPSSPP         PPSSPP
-    │             │
- Tailscale ───── Tailscale
-       Mạng LAN ảo
-           │
-      🎮 Multiplayer
-```
+    T1["🔗 Tailscale"]
+    T2["🔗 Tailscale"]
+    T3["🔗 Tailscale"]
+    T4["🔗 Tailscale"]
+
+    LAN{{"🌐 Mạng LAN ảo<br/>Tailscale"}}
+    GAME["🎮 Multiplayer"]
+
+    INTERNET --> P1
+    INTERNET --> P2
+    INTERNET --> P3
+    INTERNET --> P4
+
+    P1 --> T1
+    P2 --> T2
+    P3 --> T3
+    P4 --> T4
+
+    T1 --> LAN
+    T2 --> LAN
+    T3 --> LAN
+    T4 --> LAN
+
+    LAN --> GAME
 
 ### Nguyên tắc
 
