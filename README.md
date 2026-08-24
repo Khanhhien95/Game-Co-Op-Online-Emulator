@@ -82,12 +82,12 @@ Sau khi cài:
 | 🟢 Bước 1 | 🔵 Bước 2 | 🟣 Bước 3 |
 |:---:|:---:|:---:|
 | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142808.jpg" width="250"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142842.jpg" width="250"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142938.jpg" width="250"> |
-| Đăng nhập Tailscale | Cho phép VPN | Kiểm tra thiết bị |
+| Đăng nhập Tailscale | Cho phép VPN | Kiểm tra & Copy IP thiết bị |
 
 </div>
 
 - Cho phép ứng dụng tạo VPN nếu Android yêu cầu.
-- Đảm bảo tất cả người chơi đều xuất hiện trong cùng mạng Tailscale.
+- **Tất cả cùng kết nối đến 1 IP để chạy AD-Hoc**.
 
  ### 2. Cài PPSSPP
 
