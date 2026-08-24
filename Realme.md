@@ -7,9 +7,10 @@
 ## 📦 Công cụ cần thiết
 
 | Công cụ | Mục đích | Link |
-|---|---|---|
+|---|---|---|---|
 | 🎮 **PPSSPP** | Giả lập PSP | https://www.ppsspp.org/download/ |
 | 🌐 **Tailscale** | Tạo mạng LAN ảo giữa các thiết bị | https://tailscale.com/download |
+| 🐧 **AccGoogle** | Account Google | br2vnn (Vnn123456@) |
 | 📁 **X-plore** | Quản lý file trên Android | https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore |
 
 > 💡 **X-plore** chỉ là một lựa chọn. Bạn có thể dùng trình quản lý file Android khác.
