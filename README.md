@@ -131,7 +131,6 @@ Tất cả người chơi nên sử dụng:
 - Crash Tag Team Racing
 - Eragon
 - Ghost in the Shell: Stand Alone Complex
-- God of War *(không hỗ trợ co-op PSP — không đưa vào danh sách chơi mạng)*
 - Killzone: Liberation
 - Lord of Arcana
 - Metal Gear Solid: Peace Walker
