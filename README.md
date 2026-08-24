@@ -69,13 +69,7 @@ flowchart TB
 
 ## ⚙️ Chuẩn bị trước khi chơi
 
-### 1. Cài PPSSPP
-
-Tải PPSSPP từ trang chính thức:
-
-🔗 https://www.ppsspp.org/download/
-
-### 2. Cài Tailscale
+### 1. Cài Tailscale
 
 Tải Tailscale:
 
@@ -83,18 +77,35 @@ Tải Tailscale:
 
 Sau khi cài:
 
-- Đăng nhập Tailscale.
--  <p align="center">
-  <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142808.jpg" width="40%">
-  <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142842.jpg" width="40%">
-<img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142938.jpg" width="40%">
+<div align="center">
 
+| 🟢 Bước 1 | 🔵 Bước 2 | 🟣 Bước 3 |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142808.jpg" width="250"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142842.jpg" width="250"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142938.jpg" width="250"> |
+| Đăng nhập Tailscale | Cho phép VPN | Kiểm tra thiết bị |
 
-  
-</p>
+</div>
 
 - Cho phép ứng dụng tạo VPN nếu Android yêu cầu.
 - Đảm bảo tất cả người chơi đều xuất hiện trong cùng mạng Tailscale.
+
+ ### 2. Cài PPSSPP
+
+Tải PPSSPP từ trang chính thức:
+
+🔗 https://www.ppsspp.org/download/
+
+Sau khi cài:
+
+<div align="center">
+
+| 🟢 Bước 1 | 🔵 Bước 2 | 🟣 Bước 3 |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142808.jpg" width="250"> | <img src="https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_144107.jpg" width="250"> | <img src="[https://github.com/Khanhhien95/Game-Co-Op-Online-Emulator/blob/970fccd34c55675b48f5bb5e82b72a8af8ebbfaa/IMG_20260824_142938.jpg" width="250"> |
+| Đăng nhập Tailscale | Cho phép VPN | Kiểm tra thiết bị |
+
+</div>
+
 
 ### 3. Chuẩn bị game
 
