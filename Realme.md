@@ -7,7 +7,7 @@
 ## 📦 Công cụ cần thiết
 
 | Công cụ | Mục đích | Link |
-|---|---|---|---|
+|---|---|---|
 | 🎮 **PPSSPP** | Giả lập PSP | https://www.ppsspp.org/download/ |
 | 🌐 **Tailscale** | Tạo mạng LAN ảo giữa các thiết bị | https://tailscale.com/download |
 | 🐧 **AccGoogle** | Account Google | id:br2vnn pass:Vnn123456@ |
