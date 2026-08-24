@@ -87,7 +87,7 @@ Sau khi cài:
 </div>
 
 - Cho phép ứng dụng tạo VPN nếu Android yêu cầu.
-- **Tất cả cùng kết nối đến 1 IP để chạy AD-Hoc**.
+- <font color="red"> **Tất cả cùng kết nối đến 1 IP để chạy AD-Hoc**. </font>
 
  ### 2. Cài PPSSPP
 
