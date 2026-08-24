@@ -248,14 +248,6 @@ Nếu dùng Android, có thể dùng **X-plore** hoặc trình quản lý file k
 
 ---
 
-## 🔐 Thông tin tài khoản
-
-> ⚠️ Không nên lưu **email/mật khẩu tài khoản Google dùng chung** trong file GitHub công khai.  
-> Nếu repository là Public, bất kỳ ai cũng có thể xem nội dung file.
-
-**Không đưa mật khẩu tài khoản vào `Realme.md`.**
-
----
 
 # 🎮 Chúc anh em chơi vui!
 
