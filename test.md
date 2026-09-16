@@ -1,22 +1,22 @@
-import UnityPy, re, zlib, os
+import UnityPy, zlib, re, os, time, unicodedata
+import numpy as np
+from PIL import Image, ImageDraw, ImageFilter
+from UnityPy.enums import TextureFormat
 
-for f in ["resources.assets", "sharedassets0.assets", "level0", "globalgamemanagers.assets"]:
-    if not os.path.exists(f):
-        continue
-    env = UnityPy.load(f)
-    for obj in env.objects:
-        if obj.type.name != "TextAsset":
-            continue
-        d = obj.read()
-        if not d.m_Name.endswith(".xml"):
-            continue
-        b = d.m_Script
-        if isinstance(b, str): b = b.encode("utf-8", "surrogateescape")
-        try: b = zlib.decompress(b)
-        except zlib.error: pass
-        x = b.decode("utf-8", "ignore")
-        n = len(re.findall(r'name="conversationfont\d+"', x))
-        if n:
-            print(f, "|", d.m_Name, "| PathID", obj.path_id, "| so hinh conversationfont:", n)
+GOC = r"D:\Downloads\The Adventure Pals\Adventure Pals_Data\resources.assets"
+DICH = "resources.assets"
+CU = "Good morning, Birthday Boy!"
+MOI = "Chào buổi sáng, cậu nhóc sinh nhật!"
+VIET = "àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ"
+VIET += VIET.upper()
 
-input("Xong. Nhan Enter de thoat...")
+def doc(d):
+    raw = d.m_Script
+    if isinstance(raw, str): raw = raw.encode("utf-8", "surrogateescape")
+    try: return zlib.decompress(raw), True
+    except zlib.error: return raw, False
+
+def ghi(d, b, nen):
+    if nen: b = zlib.compress(b)
+    d.m_Script = b.decode("utf-8", "surrogateescape")
+    d.save()
